@@ -1,7 +1,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Profile Banner" />
+  <img src="https://res.cloudinary.com/dhgl9a6h1/image/upload/v1790349474/fullstack_oixrhq.jpg" width="100%" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
@@ -32,7 +32,7 @@ I'm a passionate web developer focused on building full-stack web applications u
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redux,tailwind,git,github,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode&perline=7" />
   </a>
 </p>
 
@@ -56,13 +56,14 @@ I'm a passionate web developer focused on building full-stack web applications u
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aburaihan490&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aburaihan490&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburaihan490&layout=compact&theme=tokyonight" />
 </p>
 
 ---
