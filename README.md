@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Abu Raihan</h1>
 
 <h3 align="center">
-  MERN Stack Developer | Full Stack Web Developer
+  Full Stack Web Developer
 </h3>
 
 <p align="center">
